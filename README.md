@@ -1,5 +1,5 @@
-Introduction to TTS with Deep Learning
-======================================
+Introduction to Text-to-Speech with Deep Learning
+=================================================
 
 References
 ==========
@@ -7,3 +7,5 @@ References
 **Books**
 
 [1] Text-to-Speech Synthesis ([2009 Semantic Scholar copy](https://www.semanticscholar.org/paper/Text-To-Speech-Synthesis-Taylor/f8d97b9f3019cc2c0f99984378f11cb030c014ec)). Paul Taylor
+
+[2] Deep Learning ([online version](https://www.deeplearningbook.org/)). Ian Goodfellow, Yoshua Bengio, Aaron Courville
